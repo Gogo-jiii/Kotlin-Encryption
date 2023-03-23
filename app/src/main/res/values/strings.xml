@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Encryption</string>
+    <string name="decode_base_64">decode base 64</string>
+    <string name="encode_base_64">encode base 64</string>
+    <string name="create_sha_256">create SHA 256</string>
+    <string name="decrypt_data">Decrypt Data</string>
+    <string name="encrypt_data">encrypt data</string>
+    <string name="enter_data">Enter data</string>
+</resources>
